@@ -1,1 +1,1 @@
-阿里云+github构建镜像仓库解决 k8s.gcr.io访问
+阿里云+github构建镜像仓库解决 k8s.gcr.io 访问
